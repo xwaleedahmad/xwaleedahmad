@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Waleed — Full Stack Web Developer</h2> 
 
-<p>I craft interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology. Beyond code i enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
+<p>I build interactive, scalable, and responsive web experiences fueled by curiosity, innovation, and modern technology. Beyond code i enjoy tinkering with Linux — especially customizing and optimizing my development environment.</p>
 
 
 <h2>🛠 My Toolbox</h2>
@@ -39,6 +39,6 @@
 
 <p>I'm always open to collaborate on exciting projects, explore new opportunities, or just chat about technology. Feel free to reach out!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/mewaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xwaleedahmad) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/xwaleedahmad) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedgondal57@gmail.com) 
 
 
